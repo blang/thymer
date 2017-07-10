@@ -8,7 +8,7 @@ Best fit using conky or your terminal.
 Installation and Startup
 -----
 
-    go install github.com/blang/thymer
+    go get github.com/blang/thymer
     $GOPATH/bin/thymer -duration="25m" -interval="1s" -bar=30  
 
 Usage
